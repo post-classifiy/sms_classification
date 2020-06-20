@@ -11,3 +11,19 @@ This is the 'Naive' bit of the theorem where it considers each feature to be ind
 In short, Bayes Theorem calculates the probability of a certain event happening (in our case, a message being spam) based on the joint probabilistic distributions of certain other events (in our case, the appearance of certain words in a message). We will dive into the workings of Bayes Theorem later in the mission, but first, let us understand the data we are going to work with.
 
 
+we can see here output of  frequency 
+```
+
+[Counter({'hello': 1, 'how': 1, 'are': 1, 'you': 1}),
+ Counter({'win': 2, 'money': 1, 'from': 1, 'home': 1}),
+ Counter({'call': 1, 'me': 1, 'now': 1}),
+ Counter({'hello': 2, 'call': 1, 'you': 1, 'tomorrow': 1})]
+
+
+
+```
+
+
+
+
+
